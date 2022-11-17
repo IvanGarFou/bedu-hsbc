@@ -1,0 +1,19 @@
+{
+  "name": "bedu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/IvanGarFou/bedu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanGarFou/bedu/issues"
+  },
+  "homepage": "https://github.com/IvanGarFou/bedu#readme"
+}
